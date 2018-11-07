@@ -1,9 +1,3 @@
-<style>
-    img{
-        width: 250px;
-        height: auto;
-    }
-</style>
 <h1>VUE商城app</h1>
 <p>基于VUE实现，经webpack打包，仿vivo商城单页面应用，目前有首页、分类页、商品详情页，购物车、首页滑动导航、个人中心，登录注册页。</p>
 <h3>运行</h3>
