@@ -19,4 +19,4 @@
         <img src="./static/img/截图 2018-11-07 22.16.03.png" alt="" width="350px">
 </p>
 <h3>技术栈</h3>
-<b>vue-router、vuex、swiper、axios、webpack、</b>
+<pre><b>vue-router、vuex、swiper、axios、webpack、</b></pre>
